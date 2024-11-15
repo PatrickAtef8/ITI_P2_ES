@@ -4,7 +4,8 @@
 int main()
 {
     int c;
-    //adowjbedniqwuendowuendowundwo
+    // bas yasta
+    
 }
 
 
